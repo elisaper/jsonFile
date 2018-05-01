@@ -16,7 +16,7 @@
       "title": "Second clue was found!",
       "body": "SAP HANA is ...?",
       "buttons": ["Hassos's sister","high-performance analytic appliance","high-performance analysis application","The core DB of Oracle, SAP's leading competitor"],
-      "correct": "2",          
+      "correct": "high-performance analytic appliance",          
     },
     "ce726ed5b1bc1634c8d8c82122b16428": {
       "id": "ce726ed5b1bc1634c8d8c82122b16428",
@@ -24,7 +24,7 @@
       "value": "itsupport",
       "key": "96265a41aeb641a0a4c1632d1490afb5",
       "title": "Welcome to IT Support zone.",
-        "body": "Please note : there are five ways to get IT help. Click for details:\n\n1. Use \"AyTee\" to explore self-help options via the IT chatbot\n2. Use Live chat to chat with a human agent\n3. Call the hotline\n4. Open a ticket\n5. Approach the service desk"
+      "body": "Please note : there are five ways to get IT help:\n\n1. Use \"AyTee\" to explore self-help options via the IT chatbot\n2. Use Live chat to chat with a human agent\n3. Call the hotline\n4. Open a ticket\n5. Approach the service desk"
     }
   }
 }
